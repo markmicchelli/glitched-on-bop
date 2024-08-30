@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "retrograde~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"effect" : [ 0.0 ],
+					"speed" : [ -1.0 ],
+					"transpose" : [ 0.0 ],
+					"timestretch" : [ 1.0 ],
+					"dry_wet" : [ 100.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 500.0 ],
+					"fade_out" : [ 1000.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

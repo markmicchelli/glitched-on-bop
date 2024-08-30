@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "munge_bandpass~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"gain" : [ 75.0 ],
+					"q" : [ 5.0 ],
+					"dry_wet" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"gain" : [ 120.0 ],
+					"q" : [ 200.0 ],
+					"dry_wet" : [ 100.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,28 @@
+{
+	"pattrstorage" : 	{
+		"name" : "inversion~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"ps_pcs" : [ 1, 2, 4, 7, 12 ],
+					"rm_midi_notes" : [ 56, 62, 68, 74, 80, 86 ],
+					"effect" : [ 0.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 1000.0 ],
+					"ps_rm_mix" : [ 0.0 ],
+					"ps_transpose" : [ 7.0 ],
+					"rm_pitch" : [ 74.0 ],
+					"dry_wet" : [ 100.0 ],
+					"pitch_shift~::pitch_shift~" : [ -1 ],
+					"ring_mod~::ring_mod~" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

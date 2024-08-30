@@ -1,0 +1,72 @@
+{
+	"pattrstorage" : 	{
+		"name" : "forest_204~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"min_beats" : [ 1.0 ],
+					"max_beats" : [ 16.0 ],
+					"autoswitch" : [ 0.0 ],
+					"beat1" : [ 0.0 ],
+					"beat2" : [ 0.0 ],
+					"beat3" : [ 0.0 ],
+					"beat4" : [ 1.0 ],
+					"beat5" : [ 0.0 ],
+					"beat6" : [ 0.0 ],
+					"beat7" : [ 0.0 ],
+					"beat8" : [ 0.0 ],
+					"generator" : [ 0.0 ],
+					"fade_in" : [ 750.0 ],
+					"fade_out" : [ 500.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"min_beats" : [ 1.0 ],
+					"max_beats" : [ 16.0 ],
+					"autoswitch" : [ 1.0 ],
+					"beat1" : [ 0.0 ],
+					"beat2" : [ 0.0 ],
+					"beat3" : [ 0.0 ],
+					"beat4" : [ 1.0 ],
+					"beat5" : [ 0.0 ],
+					"beat6" : [ 0.0 ],
+					"beat7" : [ 0.0 ],
+					"beat8" : [ 0.0 ],
+					"generator" : [ 1.0 ],
+					"fade_in" : [ 750.0 ],
+					"fade_out" : [ 100.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"min_beats" : [ 1.0 ],
+					"max_beats" : [ 16.0 ],
+					"autoswitch" : [ 1.0 ],
+					"beat1" : [ 0.0 ],
+					"beat2" : [ 0.0 ],
+					"beat3" : [ 0.0 ],
+					"beat4" : [ 1.0 ],
+					"beat5" : [ 0.0 ],
+					"beat6" : [ 0.0 ],
+					"beat7" : [ 0.0 ],
+					"beat8" : [ 0.0 ],
+					"generator" : [ 1.0 ],
+					"fade_in" : [ 750.0 ],
+					"fade_out" : [ 500.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

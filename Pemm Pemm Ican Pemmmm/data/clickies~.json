@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "clickies~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"min_rate" : [ 0.0 ],
+					"max_rate" : [ 10.0 ],
+					"pitch_variability" : [ 20.0 ],
+					"squelch" : [ 20.0 ],
+					"feedback" : [ 10.0 ],
+					"generator" : [ 1.0 ],
+					"fade_in[1]" : [ 250.0 ],
+					"fade_out[1]" : [ 250.0 ],
+					"output" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,39 @@
+{
+	"pattrstorage" : 	{
+		"name" : "drone~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"keyboard" : [ 35 ],
+					"shape" : [ 0.0 ],
+					"pwm" : [ 1.0 ],
+					"pwm_rate" : [ 0.3 ],
+					"glide" : [ 100.0 ],
+					"generator" : [ 0.0 ],
+					"fade_in[1]" : [ 750.0 ],
+					"fade_out[1]" : [ 750.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"keyboard" : [ 35 ],
+					"shape" : [ 0.0 ],
+					"pwm" : [ 1.0 ],
+					"pwm_rate" : [ 0.3 ],
+					"glide" : [ 100.0 ],
+					"generator" : [ 1.0 ],
+					"fade_in[1]" : [ 10.0 ],
+					"fade_out[1]" : [ 10.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

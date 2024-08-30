@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tremolo~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"dry_wet" : [ 100.0 ],
+					"primary_lfo_rate" : [ 5.0 ],
+					"primary_lfo_type" : [ 3.0 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 1.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"secondary_lfo_rate" : [ 1.0 ],
+					"secondary_lfo_type" : [ 1.0 ],
+					"primary_lfo_max_rate" : [ 10.0 ],
+					"primary_lfo_min_rate" : [ 0.5 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

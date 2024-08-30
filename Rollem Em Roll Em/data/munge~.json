@@ -1,0 +1,75 @@
+{
+	"pattrstorage" : 	{
+		"name" : "munge~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"grain_size" : [ 100.0 ],
+					"grain_size_variation" : [ 25.0 ],
+					"grain_pitch" : [ 1.0 ],
+					"grain_pitch_variation" : [ 0.25 ],
+					"effect" : [ 0.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 1000.0 ],
+					"dry_wet" : [ 50.0 ],
+					"delay_length" : [ 125.0 ],
+					"direction" : [ 1.0 ],
+					"grain_separation" : [ 800.0 ],
+					"grain_separation_variation" : [ 800.0 ],
+					"spread" : [ 1.0 ],
+					"scale" : [ 0, 7, 4, 10, 6, 12, 9, 15 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"grain_size" : [ 100.0 ],
+					"grain_size_variation" : [ 25.0 ],
+					"grain_pitch" : [ 1.0 ],
+					"grain_pitch_variation" : [ 0.25 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 1000.0 ],
+					"dry_wet" : [ 50.0 ],
+					"delay_length" : [ 125.0 ],
+					"direction" : [ 1.0 ],
+					"grain_separation" : [ 800.0 ],
+					"grain_separation_variation" : [ 800.0 ],
+					"spread" : [ 1.0 ],
+					"scale" : [ 0, 7, 4, 10, 6, 12, 9, 15 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"grain_size" : [ 100.0 ],
+					"grain_size_variation" : [ 25.0 ],
+					"grain_pitch" : [ 1.0 ],
+					"grain_pitch_variation" : [ 1.0 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 1000.0 ],
+					"dry_wet" : [ 100.0 ],
+					"delay_length" : [ 400.0 ],
+					"direction" : [ 1.0 ],
+					"grain_separation" : [ 200.0 ],
+					"grain_separation_variation" : [ 200.0 ],
+					"spread" : [ 1.0 ],
+					"scale" : [ 0, 7, 4, 10, 6, 12, 9, 15 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

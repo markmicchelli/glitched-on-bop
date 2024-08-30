@@ -1,0 +1,41 @@
+{
+	"pattrstorage" : 	{
+		"name" : "vibrato~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"offset" : [ 0.0 ],
+					"depth" : [ 0.75 ],
+					"rate" : [ 0.3 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 1.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"dry_wet" : [ 50.0 ],
+					"lfo" : [ 2.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"offset" : [ 11.75 ],
+					"depth" : [ 0.75 ],
+					"rate" : [ 0.5 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 1.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"dry_wet" : [ 75.0 ],
+					"lfo" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

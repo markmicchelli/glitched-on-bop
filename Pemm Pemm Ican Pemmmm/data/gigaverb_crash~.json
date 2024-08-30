@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "gigaverb~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"spread" : [ 0.0 ],
+					"room_size" : [ 20.0 ],
+					"reverb_time" : [ 400.0 ],
+					"bandwidth" : [ 0.75 ],
+					"damping" : [ 0.8 ],
+					"dry" : [ 0.85 ],
+					"early" : [ 0.75 ],
+					"tail" : [ 0.05 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"dry_wet" : [ 100.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

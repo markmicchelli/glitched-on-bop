@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "wavefold~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"effect" : [ 0.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"dry_wet" : [ 100.0 ],
+					"attenuate" : [ -32.694663167104089 ],
+					"mode" : [ 0.0 ],
+					"amplify" : [ 48.337707786526686 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

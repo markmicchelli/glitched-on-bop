@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "loop~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"off_mode" : [ 0.0 ],
+					"dry_wet" : [ 100.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

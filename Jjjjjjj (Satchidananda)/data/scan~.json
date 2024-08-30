@@ -1,0 +1,47 @@
+{
+	"pattrstorage" : 	{
+		"name" : "scan~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"off_mode" : [ 0.0 ],
+					"dry_wet" : [ 100.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"start_position_low" : [ 0.0 ],
+					"scan_length_low" : [ 1000.0 ],
+					"start_position_lfo" : [ 1.0 ],
+					"start_position_rate" : [ 1.0 ],
+					"scan_length_rate" : [ 1.0 ],
+					"scan_length_lfo" : [ 1.0 ],
+					"start_position_high" : [ 95.0 ],
+					"scan_length_high" : [ 1500.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"off_mode" : [ 0.0 ],
+					"dry_wet" : [ 100.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"start_position_low" : [ 0.0 ],
+					"scan_length_low" : [ 50.0 ],
+					"start_position_lfo" : [ 1.0 ],
+					"start_position_rate" : [ 1.0 ],
+					"scan_length_rate" : [ 1.0 ],
+					"scan_length_lfo" : [ 1.0 ],
+					"start_position_high" : [ 95.0 ],
+					"scan_length_high" : [ 100.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

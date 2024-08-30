@@ -1,0 +1,31 @@
+{
+	"pattrstorage" : 	{
+		"name" : "munge~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"grain_size" : [ 200.0 ],
+					"grain_size_variation" : [ 25.0 ],
+					"grain_pitch" : [ 1.0 ],
+					"grain_pitch_variation" : [ 0.55 ],
+					"effect" : [ 0.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ],
+					"dry_wet" : [ 100.0 ],
+					"delay_length" : [ 250.0 ],
+					"direction" : [ 1.0 ],
+					"grain_separation" : [ 0.0 ],
+					"grain_separation_variation" : [ 0.0 ],
+					"spread" : [ 1.0 ],
+					"scale" : [ 0, 12 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "noise_gate~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"threshold" : [ -41.0 ],
+					"hold" : [ 1000.0 ],
+					"attack" : [ 40.0 ],
+					"release" : [ 1000.0 ],
+					"effect" : [ 0.0 ],
+					"off_mode" : [ 1.0 ],
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

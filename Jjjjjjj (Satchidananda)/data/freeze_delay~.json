@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "freeze_delay~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"autocapture_threshold" : [ -30.0 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 0.0 ],
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 0.0 ],
+					"dry_wet" : [ 100.0 ],
+					"grains" : [ 25.000000000000007 ],
+					"autocapture" : [ 1.0 ],
+					"output" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

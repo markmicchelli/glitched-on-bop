@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "logidy_umi3",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"mode" : [ 0.0 ],
+					"hold_time" : [ 1000.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"mode" : [ 1.0 ],
+					"hold_time" : [ 1000.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

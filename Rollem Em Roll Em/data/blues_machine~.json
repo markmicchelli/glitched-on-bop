@@ -1,0 +1,81 @@
+{
+	"pattrstorage" : 	{
+		"name" : "blues_playback~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 50.0 ],
+					"choruses" : [ 0.0 ],
+					"trading" : [ 0.0 ],
+					"playback" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 50.0 ],
+					"choruses" : [ 0.0 ],
+					"trading" : [ 1.0 ],
+					"playback" : [ 1.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 50.0 ],
+					"choruses" : [ 1.0 ],
+					"trading" : [ 1.0 ],
+					"playback" : [ 1.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 50.0 ],
+					"choruses" : [ 0.0 ],
+					"trading" : [ 0.0 ],
+					"playback" : [ 1.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 50.0 ],
+					"choruses" : [ 1.0 ],
+					"trading" : [ 0.0 ],
+					"playback" : [ 1.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 50.0 ],
+					"choruses" : [ 2.0 ],
+					"trading" : [ 0.0 ],
+					"playback" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

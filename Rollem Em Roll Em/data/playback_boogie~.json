@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "playback~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"loop" : [ 0.0 ],
+					"filename" : [ "boogie.wav" ],
+					"generator" : [ 0.0 ],
+					"fade_in[1]" : [ 10.0 ],
+					"fade_out[1]" : [ 10.0 ],
+					"timestretch" : [ 0.0 ],
+					"speed" : [ 1.0 ],
+					"transpose" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

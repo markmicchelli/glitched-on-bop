@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pitch_shift~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"dry_wet" : [ 0.0 ],
+					"layer1" : [ -24.0 ],
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 1.0 ],
+					"init_delay" : [ 0.0 ],
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 0.0 ],
+					"layer2" : [ -12.0 ],
+					"quantize2" : [ 0.0 ],
+					"quantize1" : [ 0.0 ],
+					"layer_mix" : [ 32.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

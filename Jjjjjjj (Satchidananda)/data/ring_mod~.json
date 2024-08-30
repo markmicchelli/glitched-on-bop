@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "ring_mod~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"effect" : [ 1.0 ],
+					"off_mode" : [ 1.0 ],
+					"fade_in" : [ 0.0 ],
+					"fade_out" : [ 0.0 ],
+					"dry_wet" : [ 0.0 ],
+					"pitch" : [ 64.0 ],
+					"frequency" : [ 439.999999999999886 ],
+					"mode" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

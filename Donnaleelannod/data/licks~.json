@@ -1,0 +1,22 @@
+{
+	"pattrstorage" : 	{
+		"name" : "licks~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"filenames" : [ "donna_lick1.wav", "donna_lick2.wav", "donna_lick3.wav", "donna_lick4.wav", "donna_lick5.wav", "donna_lick6.wav", "donna_lick7.wav", "donna_lick8.wav" ],
+					"ordering" : [ 1.0 ],
+					"transpose_low" : [ 12.0 ],
+					"transpose_high" : [ 12.0 ],
+					"transpose" : [ 1.0 ],
+					"number" : [ 8.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

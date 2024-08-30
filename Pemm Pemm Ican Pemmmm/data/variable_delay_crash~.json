@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "variable_delay~",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"effect" : [ 1.0 ],
+					"min_delay" : [ 100.000000000000043 ],
+					"max_delay" : [ 700.0 ],
+					"rate" : [ 7.000000000000001 ],
+					"feedback" : [ 75.0 ],
+					"dry_wet" : [ 50.0 ],
+					"lfo" : [ 2.0 ],
+					"off_mode" : [ 1.0 ],
+					"delay_time" : [ 500.000000000000114 ],
+					"fade_in" : [ 250.0 ],
+					"fade_out" : [ 250.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
